@@ -1,0 +1,15 @@
+body{
+  font-family: 'Amatic SC';
+  background-color: #bad29f;
+  font-size: 30px;
+}
+
+.present, .sum {
+  display: block;
+  background-color: #ccf5ac;
+  text-align: center;
+  padding: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
